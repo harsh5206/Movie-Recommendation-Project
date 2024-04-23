@@ -4,14 +4,14 @@ This repository contains code for a movie recommendation system implemented usin
 
 ## Table of Contents
 
-- [Introduction]
-- (#dependencies)
-- [Data](#data)
-- [Analysis](#analysis)
-- [Matrix Manipulation](#matrix-manipulation)
-- [SVD (Singular Value Decomposition)](#svd-singular-value-decomposition)
-- [Cosine Similarity](#cosine-similarity)
-- [Usage](#usage)
+- Introduction
+- Dependencies
+- Data
+- Analysis
+- Matrix Manipulation
+- SVD (Singular Value Decomposition)
+- Cosine Similarity
+- Usage
 
 ## Introduction
 
