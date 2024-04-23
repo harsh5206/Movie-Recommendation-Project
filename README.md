@@ -5,7 +5,7 @@ This repository contains code for a movie recommendation system implemented usin
 ## Table of Contents
 
 - [Introduction]
-- [Dependencies](#dependencies)
+- (#dependencies)
 - [Data](#data)
 - [Analysis](#analysis)
 - [Matrix Manipulation](#matrix-manipulation)
